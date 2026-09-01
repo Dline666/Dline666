@@ -103,10 +103,8 @@
 >
 > 如果你在代码审查中发现了未定义行为，请立刻告诉我。这并不是为了你的项目着想，仅仅是因为我看不下去这种不严谨的态度罢了。
 
----
-
 **El Psy Kongroo.**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dline666&label=世界线观测次数&color=00BFFF&style=for-the-badge" alt="Visitor Counter" />
+  <img src="https://vistr.dev/badge?repo=Dline666.Dline666&leftcolor=00BFFF&color=00BFFF&text=世界线观测次数" alt="Visitor Counter" />
 </p>
