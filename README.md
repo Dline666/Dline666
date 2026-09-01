@@ -106,5 +106,5 @@
 **El Psy Kongroo.**
 
 <p align="center">
-  <img src="https://vistr.dev/badge?repo=Dline666.Dline666&leftcolor=00BFFF&color=00BFFF&text=世界线观测次数" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Dline666&label=世界线观测次数&color=00BFFF&style=for-the-badge" alt="Visitor Counter" />
 </p>
