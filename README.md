@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&separator=/&lines=El+Psy+Kongroo./This+is+the+choice+of+Steins;Gate./I+am+a+Mad+Scientist./...and+a+C%2B%2B+Developer." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&separator=/&lines=El+Psy+Kongroo./This+is+the+choice/of+Steins%3BGate./I+am+a+Mad+Scientist./...and+a+C%2B%2B+Developer." alt="Typing SVG" />
 </p>
 
 ---
