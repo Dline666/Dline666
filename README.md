@@ -80,8 +80,8 @@
 
 ### 📡 最近的世界线变动
 
-<!-- 这会显示你最近的 GitHub 活动 -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dline666&theme=react-dark&bg_color=0a0a2e&color=00BFFF&line=00BFFF&point=ff69b4&hide_border=true" alt="GitHub Activity Graph" />
+<!-- 显示 GitHub 贡献图（绿色方块） -->
+<img src="https://ghchart.rshah.org/Dline666" alt="GitHub Contribution Chart" />
 
 ---
 
