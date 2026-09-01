@@ -116,3 +116,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dline666&label=世界线变动&color=00BFFF&style=for-the-badge" alt="Visitor Counter" />
 </p>
+
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDline666&count_bg=%2300BFFF&title_bg=%23555555&title=%E4%B8%96%E7%95%8C%E7%BA%BF%E8%A7%82%E6%B5%8B%E6%AC%A1%E6%95%B0&edge_flat=false" alt="Visitor Counter" />
+</p>
