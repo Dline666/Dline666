@@ -3,6 +3,11 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/世界线变动率-1.048596%25-00BFFF?style=for-the-badge&logo=steinsgate&logoColor=white" />
+  <img src="https://img.shields.io/badge/观测日期-2026.09.01-ff69b4?style=for-the-badge" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=El+Psy+Kongroo.;This+is+the+choice+of+Steins;Gate.;I+am+a+Mad+Scientist.;...and+a+C%2B%2B+Developer." alt="Typing SVG" />
 </p>
 
