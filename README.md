@@ -108,3 +108,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dline666&label=世界线观测次数&color=00BFFF&style=for-the-badge" alt="Visitor Counter" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dline666&label=观测次数&color=00BFFF&style=for-the-badge" alt="Visitor Counter" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dline666&label=世界线变动&color=00BFFF&style=for-the-badge" alt="Visitor Counter" />
+</p>
