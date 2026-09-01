@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Dline666/Dline666/raw/main/banner.png" alt="Lab Banner" width="100%" />
+  <img src="https://github.com/Dline666/Dline666/raw/main/banner.jpg" alt="Lab Banner" width="100%" />
 </p>
 
 <p align="center">
