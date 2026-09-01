@@ -44,22 +44,22 @@
 虽然我不太在意这种社交平台的虚荣指标，但既然你诚心诚意地发问了，我就大发慈悲地展示给你看。
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Langs" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dline666&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dline666&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Langs" width="40%" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=algolia&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dline666&theme=algolia&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
 
 ### 📡 通往世界线变动率观测站的链接
 
-如果你想要追踪我的研究日志，或者仅仅是想要反驳我的理论，以下是连接我的“网关”：
+如果你想要追踪我的研究日志，或者仅仅是想要反驳我的理论，以下是连接我的"网关"：
 
 [![博客](https://img.shields.io/badge/我的_观测站_(Blog)-dline666.com-00BFFF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dline666.com)
-[![邮箱](https://img.shields.io/badge/联络_实验室-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:你的邮箱地址)
+[![邮箱](https://img.shields.io/badge/联络_实验室-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geass123666@gmail.com)
 
 ---
 
@@ -70,17 +70,4 @@
 > 如果你在代码审查中发现了未定义行为，请立刻告诉我。这并不是为了你的项目着想，仅仅是因为我看不下去这种不严谨的态度罢了。
 
 **El Psy Kongroo.**
-<!--
-**Dline666/Dline666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
