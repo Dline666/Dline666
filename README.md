@@ -59,8 +59,8 @@
 虽然我不太在意这种社交平台的虚荣指标，但既然你诚心诚意地发问了，我就大发慈悲地展示给你看。
 
 <div align="center">
-  <img src="https://github-readme-stats.jstm.xyz/api?username=Dline666&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.jstm.xyz/api/top-langs/?username=Dline666&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Langs" width="40%" />
+  <img src="https://github-readme-stats.onrender.com/api?username=Dline666&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.onrender.com/api/top-langs/?username=Dline666&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Langs" width="40%" />
 </div>
 
 <p align="center">
