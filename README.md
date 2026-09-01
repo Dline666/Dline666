@@ -68,11 +68,45 @@
 
 ---
 
+### 📡 最近的世界线变动
+
+<!-- 这会显示你最近的 GitHub 活动 -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dline666&theme=react-dark&bg_color=0a0a2e&color=00BFFF&line=00BFFF&point=ff69b4&hide_border=true" alt="GitHub Activity Graph" />
+
+---
+
+
+### 🧪 未来道具研究所 成员招募
+
+> 如果你满足以下任一条件，欢迎通过邮箱联系我：
+> - 能用 C++ 写出没有未定义行为的代码
+> - 理解什么是"世界线收敛"
+> - 愿意承认 "El Psy Kongroo" 是一句有效的命令行指令
+
+**当前成员数：** 1 人
+
+---
+
 ### ☕ 最后的警告
 
 > *“人类的进步是由好奇心与执念驱动的，而我的代码，正是为了打破世界线的束缚而存在。”*
 >
 > 如果你在代码审查中发现了未定义行为，请立刻告诉我。这并不是为了你的项目着想，仅仅是因为我看不下去这种不严谨的态度罢了。
 
+---
+
+### 🛠️ 主要研究成果
+
+| 项目 | 简介 | 技术栈 |
+|------|------|--------|
+| [时间机器模拟器](链接) | 基于 C++20 协程的分布式模拟 | C++20, ASIO |
+| [世界线探测仪](链接) | 实时监测世界线变动率 | C++17, Qt |
+| [lab-scripts](链接) | 实验室自动化脚本集 | Python, Bash |
+
+---
+
 **El Psy Kongroo.**
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dline666&label=世界线观测次数&color=00BFFF&style=for-the-badge" alt="Visitor Counter" />
+</p>
