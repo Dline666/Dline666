@@ -106,5 +106,5 @@
 **El Psy Kongroo.**
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDline666&count_bg=%2300BFFF&title_bg=%23555555&title=世界线观测次数&edge_flat=true" alt="Visitor Counter" />
+  <img src="https://img.shields.io/badge/世界线观测中-El_Psy_Kongroo-00BFFF?style=for-the-badge" />
 </p>
